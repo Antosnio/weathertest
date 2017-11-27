@@ -1,1 +1,9 @@
 com\weather\controller\HomeController.class
+com\weather\domains\Quote.class
+com\weather\domains\Sys.class
+com\weather\domains\Main.class
+com\weather\domains\Weather.class
+com\weather\domains\Request.class
+com\weather\domains\Wind.class
+com\weather\domains\Clouds.class
+com\weather\domains\Coord.class
